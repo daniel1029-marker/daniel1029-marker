@@ -1,4 +1,13 @@
-# 👋 Hi, I'm Daniel Kubala
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"/>
+ <div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=Shamslux&style=flat-square&color=blue" alt=""/><br>
+ <h1>
+  Hi! Welcome to my Git!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+</div>
 
 ### Senior Data & AI Engineer | Cloud • MLOps • LLM Systems
 
@@ -24,6 +33,37 @@ Over the past 11+ years, I’ve designed, developed, and productionized data and
 I thrive at the intersection of **data engineering, AI, and platform architecture**, turning complex data challenges into measurable outcomes that drive decision-making and innovation.
 
 ---
+
+### 🥇 Main goal & 🥈 Hobby :
+
+- 🎯 - My main goal is focused on AI & Data field as I work as AI & Data Engineer.
+- #️ - My hobby in IT involves Web Development and Software Development. 
+
+---
+
+### 🛠️: Main Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" **alt="MSSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" title="Hive" **alt="Hive" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" title="Hadoop" **alt="Hadoop" width="100" height="40"/>
+  <img src="https://hop.apache.org/tech-manual/latest/_images/logo/RGB/jpg/HOP_logo_RGB-1.jpg" title="HOP" **alt="HOP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/386/338/png-clipart-computer-software-data-analytics-tableau-software-business-intelligence-others-blue-text-thumbnail.png" title="Pentaho" **alt="Pentaho" width="40" height="40"/>
+  <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" **alt="Airflow" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5f60fe18-cc79-477a-96b6-d5c117ce6fce" title="PySpark" **alt="PySpark" width="100" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*QdhM2lmpYcDzy1Xn" title="dbt" **alt="dbt" width="80" height="40"/>
+</div>
+
 
 ## 🧠 Technical Focus
 
