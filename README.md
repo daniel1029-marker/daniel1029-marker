@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 I'm a **Senior Data & AI Engineer** passionate about building scalable, cloud-native data ecosystems and AI-driven analytics platforms.
-Over the past 8+ years, I’ve designed, developed, and productionized data and machine learning systems across **finance, energy, and public sector** domains — helping enterprises modernize their data platforms, operationalize AI, and unlock business insights at scale.
+Over the past 11+ years, I’ve designed, developed, and productionized data and machine learning systems across **finance, energy, and public sector** domains — helping enterprises modernize their data platforms, operationalize AI, and unlock business insights at scale.
 
 I thrive at the intersection of **data engineering, AI, and platform architecture**, turning complex data challenges into measurable outcomes that drive decision-making and innovation.
 
