@@ -112,4 +112,3 @@ I thrive at the intersection of **data engineering, AI, and platform architectur
 
 ---
 
-> “Transforming complex data into clear, actionable intelligence — one pipeline, one model, one insight at a time.”
